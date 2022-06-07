@@ -11,6 +11,19 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    
+  - name: Books
+    url: https://www.books.com.tw/
+  - name: Kingstone
+    url: https://www.kingstone.com.tw/
+  - name: Sanmin
+    url: https://www.sanmin.com.tw/
+  - name: CavesBooks
+    url: https://www.cavesbooks.com.tw/EC/
+   - name: Eslite
+    url: https://www.eslite.com/
+   - name: No this Site
+    url: https://www.bookwaker.com.tw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
