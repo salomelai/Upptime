@@ -11,7 +11,6 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-    
   - name: Books
     url: https://www.books.com.tw/
   - name: Kingstone
@@ -20,9 +19,9 @@ sites:
     url: https://www.sanmin.com.tw/
   - name: CavesBooks
     url: https://www.cavesbooks.com.tw/EC/
-   - name:Bookwlker
+  - name: Bookwlker
     url: https://www.bookwalker.com.tw/
-   - name: No this Site
+  - name: No this Site
     url: https://www.bookwaker.com.tw/
 
 status-website:
