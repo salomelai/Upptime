@@ -76,19 +76,19 @@
     "url": "https://www.books.com.tw/",
     "icon": "https://favicons.githubusercontent.com/www.books.com.tw",
     "slug": "books",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3107,
-    "timeDay": 1917,
-    "timeWeek": 2853,
-    "timeMonth": 3107,
-    "timeYear": 3107,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2895,
+    "timeDay": 1557,
+    "timeWeek": 2646,
+    "timeMonth": 2895,
+    "timeYear": 2895,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 12
     }
   },
   {
