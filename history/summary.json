@@ -94,9 +94,9 @@
     "url": "https://www.kingstone.com.tw/",
     "icon": "https://favicons.githubusercontent.com/www.kingstone.com.tw",
     "slug": "kingstone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 1657,
     "timeMonth": 1631,
     "timeYear": 1631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Sanmin",
