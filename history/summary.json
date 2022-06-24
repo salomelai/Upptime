@@ -132,9 +132,9 @@
     "url": "https://www.cavesbooks.com.tw/EC/",
     "icon": "https://favicons.githubusercontent.com/www.cavesbooks.com.tw",
     "slug": "caves-books",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +143,9 @@
     "timeWeek": 4314,
     "timeMonth": 4086,
     "timeYear": 4086,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-24": 0
+    }
   },
   {
     "name": "Bookwlker",
