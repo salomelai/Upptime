@@ -132,19 +132,19 @@
     "url": "https://www.cavesbooks.com.tw/EC/",
     "icon": "https://favicons.githubusercontent.com/www.cavesbooks.com.tw",
     "slug": "caves-books",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4086,
-    "timeDay": 5131,
-    "timeWeek": 4314,
-    "timeMonth": 4086,
-    "timeYear": 4086,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 4081,
+    "timeDay": 4556,
+    "timeWeek": 4273,
+    "timeMonth": 4081,
+    "timeYear": 4081,
     "dailyMinutesDown": {
-      "2022-06-24": 0
+      "2022-06-24": 16
     }
   },
   {
