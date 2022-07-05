@@ -133,9 +133,9 @@
     "url": "https://www.cavesbooks.com.tw/EC/",
     "icon": "https://favicons.githubusercontent.com/www.cavesbooks.com.tw",
     "slug": "caves-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -145,6 +145,7 @@
     "timeMonth": 4031,
     "timeYear": 4031,
     "dailyMinutesDown": {
+      "2022-07-05": 0,
       "2022-06-24": 16
     }
   },
